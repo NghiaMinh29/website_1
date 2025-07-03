@@ -1,0 +1,1 @@
+# This is a free template, downloaded from HTML5 UP and it's designed by Halcyonic. The purpose of this project is to build a mini toolchain (CI/CD) using Git Actions and AWS S3. This project is used for educational purposes, not for business of commercial purposes.
